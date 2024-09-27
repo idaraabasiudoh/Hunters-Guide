@@ -6,8 +6,8 @@ Hunters Guide is a Python Tkinter-based application designed to simplify the pro
 
 ## Features
 
-- **Cover Letter Generation:** Create personalized cover letters based on your resume and job description.
-- **Resume Tailoring:** Tailor your resume to match specific job descriptions effortlessly.
+- **Cover Letter Generation:** Create personalized cover letters based on your resume and job description by prompting and refining prompting.
+- **Resume Grading:** Grade and evaluate resume based on job description.
 - **Interview Questions:** Generate a set of interview-type questions suitable for a given job.
 
 ## Getting Started
