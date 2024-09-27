@@ -1,0 +1,1 @@
+Give a resume score out of 10 in one line. Ex: Resume Score: 9/10. Then proceed to give insights and room for improvements in another line. List out all keywords to include in resume based on job description. If either resume or job description is missing tell user to input them.
